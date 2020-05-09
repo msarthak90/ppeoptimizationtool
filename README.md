@@ -1,4 +1,4 @@
-# ppeoptimizationtool
+# PPE Allocation Optimization Tool
 
 In response to the COVID-19 pandemic, states are providing cities and counties the needed Personal Protective Equipment (PPE) to distribute among healthcare and other facilities within each jurisdiction. These central distribution facilities are tasked with assigning allocations of boxes of each equipment to the needed facilities. However, these boxes come packed with varying amounts of the specific equipment that don't necessarily lend well to allocating the exact amount for each facility. Public Health managers would like to have a solution that quickly optimizes for the following:
 1. Each facility gets some % of their allocation (ideally 50-75%)
